@@ -1,4 +1,4 @@
-# Chat Application
+## Chat Application
 
 - ## Frameworks and Language used
   - #### Spring Boot Framework
